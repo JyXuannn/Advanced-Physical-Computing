@@ -16,8 +16,7 @@ Then I wrote the status machine which is when the audiences close the installati
 To make sure the status machine, I started to combine these sensors. On the first step, I combined the LCD, light and distance because I thought they were easier then the pressure and servo. Then I combined the coding and connect the circuit and add a if in it. Then I tried to combined the pressure and servo, and add 4 ‘if’ in coding. At last, I combined them together but I have no idea how can I combine the so many ‘if’.
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/servo%20and%20pressure.png "Cow1")
-
-![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%85%EF%BD%81%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%83%EF%BD%85.jpg "Cow1")
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%E5%85%A8%E9%83%A8.jpg "Cow1")
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%85%EF%BD%81%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%83%EF%BD%85.jpg "Cow1")
 
