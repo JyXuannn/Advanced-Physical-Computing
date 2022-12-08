@@ -31,12 +31,12 @@ When I make sure the coding did not has any problems. I decided to make a 3D mod
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%B2%EF%BD%88%EF%BD%89%EF%BD%8E%EF%BD%8F%EF%BC%8D%EF%BC%91.png "Cow1")
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%B2%EF%BD%88%EF%BD%89%EF%BD%8E%EF%BD%8F%EF%BC%8D%EF%BC%92.png "Cow1")
 
+After building the model, I booked the 3D print and decided to do a prototype for making sure the installation can be run in practice.
 
+I chose card paper as the material to make the prototype because It has a little bit hard I guessed it can bear the weight.
 
-
-
-
-
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%90%EF%BD%92%EF%BD%8F%EF%BD%94%EF%BD%8F%EF%BD%99%EF%BD%90%EF%BD%85.jpg
+ "Cow1")
 
 
 
