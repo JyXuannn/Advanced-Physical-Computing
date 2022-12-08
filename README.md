@@ -64,7 +64,8 @@ I went to the tutorial and got the answer for the bug which is the power is high
 
 The next day I went to workshop to get the model. I was shocked that the middle of the model is not empty, it filled with material and it was different from my model. I asked for assistant why did this happen, she told me when the machine print something it needs a support on the model, So my model becomes solid. Although the result was not what I thought, I decided to try it, so I printed the rest of the parts and got a pile of solid material.
 
-
+ ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%94%EF%BD%95%EF%BD%82%EF%BD%85.jpg
+ "Cow1")
 
 
 
