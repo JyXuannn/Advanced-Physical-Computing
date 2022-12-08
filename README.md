@@ -80,7 +80,10 @@ I found a problem for coding, which is when I get close to the installation for 
   ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%8E%EF%BD%8D%EF%BC%8D%EF%BC%92.png
  "Cow1")
 
+I started to assemble the installation and soldering. When everything had been finished, I tried to run the installation. The same problem had been appeared again at that moment (the both of servos rotated all the time). Then I connected the other pressure on breadboard for showing on Friday.
 
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%8E%EF%BD%8D%EF%BC%8D%EF%BC%92.png
+ "Cow1")
 
 
 
