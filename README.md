@@ -59,7 +59,7 @@ I went to the tutorial and got the answer for the bug which is the power is high
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/3D%EF%BC%8D%EF%BC%92.jpg
  "Cow1")
  
- ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93%EF%BC%A4%EF%BC%8Dto%20assemble.jpg
+ ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93D%EF%BC%8D%EF%BC%93.jpg
  "Cow1")
 
 
