@@ -116,12 +116,12 @@ When I assembled it and ran it, I found that the pressure sensor is hard to feel
 
 And For what I'm going to put on the tray, I chose batteries.
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%94.jpg
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%82%EF%BD%85%EF%BD%94%EF%BD%94%EF%BD%85%EF%BD%92%EF%BD%99.jpg
  "Cow1")
 
 Finally, I got a complete installation.
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%94.jpg
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%86%EF%BD%89%EF%BD%8E%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%99.jpg
  "Cow1")
 
 
