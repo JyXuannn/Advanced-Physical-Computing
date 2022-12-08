@@ -105,14 +105,28 @@ After cutting, I started to find the mistakes for soldering. I removed all the w
 
 When I assembled it and ran it, I found that the pressure sensor is hard to feel the pressure on the flat surface, so I decided put a round thing under the pressure sensor in order to make it better feel the presence of force. 
 
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%92.jpg
+ "Cow1")
 
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%93.jpg
+ "Cow1")
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/23c91a2ff7485120e96ec1e2b15f871.jpg
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%94.jpg
+ "Cow1")
+
+And For what I'm going to put on the tray, I chose batteries.
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%94.jpg
+ "Cow1")
+
+Finally, I got a complete installation.
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/to%20assemble%EF%BC%8D%EF%BC%94.jpg
  "Cow1")
 
 
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/23c91a2ff7485120e96ec1e2b15f871.jpg
- "Cow1")
+
+
 
 
