@@ -23,3 +23,33 @@ To make sure the status machine, I started to combine these sensors. On the firs
 After trying many time and numerous errors, I decided to use the distance sensor as the the first if, and then wrote the other ‘if’ in the else.
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8D%EF%BC%91.png "Cow1")
+
+**Week 7:**
+
+When I make sure the coding did not has any problems. I decided to make a 3D model because I want to use 3D print to print the it. I thought there are some of complicated structures on the modal, so 3D print was a better choice I believed. Actually, it is not an easy thing though it just combined by some of different geometries. I needed to consider how can I make a right route to put the wires in, how big do I want to do and how thick do I want to do? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
