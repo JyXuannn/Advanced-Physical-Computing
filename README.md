@@ -69,7 +69,7 @@ The next day I went to workshop to get the model. I was shocked that the middle 
 
 I tried to stick them together but the glue of UHU is not sticky enough and dries very slowly. Therefore I had to use some tools to support the glued parts and then waited for them to dry.
 
- ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%94%EF%BD%95%EF%BD%82%EF%BD%85.jpg
+ ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93%EF%BC%A4%EF%BC%8Dto%20assemble.jpg
  "Cow1")
 
 
