@@ -50,9 +50,15 @@ Before making the prototype, I needed to link the circuit on Arduino and breadbo
 
 I went to the tutorial and got the answer for the bug which is the power is high, and Matt gave me a new power supply to connect the servo, then the installation can run. After that, I went to workshop and queued for hours to print the model. Since my installation has some of structure, I was going to print these parts separately, but there are too many parts on it, I planed to print it twice because the tray of 3D printer cannot fit them.
 
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/3D%EF%BC%8D%EF%BC%91.jpg
+ "Cow1")
 
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/3D%EF%BC%8D%EF%BC%92.jpg
+ "Cow1")
+ 
+ ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93D%EF%BC%8D%EF%BC%93.jpg
+ "Cow1")
 
-https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/3D%EF%BC%8D%EF%BC%91.jpg
 
 
 
