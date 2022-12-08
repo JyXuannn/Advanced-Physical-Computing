@@ -35,8 +35,11 @@ After building the model, I booked the 3D print and decided to do a prototype fo
 
 I chose card paper as the material to make the prototype because It has a little bit hard I guessed it can bear the weight.
 
+Before making the prototype, I needed to link the circuit on Arduino and breadboard, but when I connected the circuit and copy the coding from Tinkercad to Arduino, everything can run except the servo. The both servos rotated all the time when I connected the circuit, it cannot be controlled by pressure, so I add the coding for checking the value of pressure at first. After testing the pressure, I can make sure it does not has some problems on them, then I checked the coding but it looked fine. I have tried to debug for a few days. However, I cannot solve it and the bug is when I When I plug it in, the two servos keeps turning and the value of pressure constantly changing though I did not touch the pressure, so I felt so confused and booked a tutorial on week 8.
+
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%90%EF%BD%92%EF%BD%8F%EF%BD%94%EF%BD%8F%EF%BD%99%EF%BD%90%EF%BD%85.jpg
  "Cow1")
+ 
 
 
 
