@@ -92,11 +92,15 @@ I started to assemble the installation and soldering. When everything had been f
 
 After showing, I got the feedback that I needed to design which things I wanted to put in the trays and I can improve the model. So, I Decided to use transparent material to make a new model because I thought there were so many shortcomings on the model. However, the 3D print cannot print a transparent model. Therefore I booked laser cutter and bought some of transparent material. I thought a relatively perfect model can be made by laser cutter It did not produce a lot of lines on the model like 3D printing and the important thing is it can cut transparent material.
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/23c91a2ff7485120e96ec1e2b15f871.jpg
  "Cow1")
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/922ceda83e778a7e943293ad42f3c8d.jpg
  "Cow1")
+
+After cutting, I started to find the mistakes for soldering. I removed all the wires of the pressure sensor and servo motor and soldered them one by one and tried to link them to find the problem. This process took me a lot of time. However, fortunately, I found the problem is the wire connected to ‘GND’ is not soldered properly. Then I tried to stick everything together and put these wires in the installation and group the lines to make them easily identifiable.
+
+
 
   ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
  "Cow1")
