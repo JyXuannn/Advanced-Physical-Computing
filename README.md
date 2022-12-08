@@ -124,7 +124,7 @@ Finally, I got a complete installation.
   ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%86%EF%BD%89%EF%BD%8E%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%99.jpg
  "Cow1")
 
-
+Thank you for watching.
 
 
 
