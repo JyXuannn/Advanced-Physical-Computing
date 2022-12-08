@@ -100,19 +100,19 @@ After showing, I got the feedback that I needed to design which things I wanted 
 
 After cutting, I started to find the mistakes for soldering. I removed all the wires of the pressure sensor and servo motor and soldered them one by one and tried to link them to find the problem. This process took me a lot of time. However, fortunately, I found the problem is the wire connected to ‘GND’ is not soldered properly. Then I tried to stick everything together and put these wires in the installation and group the lines to make them easily identifiable.
 
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%93%EF%BD%8F%EF%BD%8C%EF%BD%84%EF%BD%85%EF%BD%92%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8D%EF%BC%93.jpg
+ "Cow1")
+
+When I assembled it and ran it, I found that the pressure sensor is hard to feel the pressure on the flat surface, so I decided put a round thing under the pressure sensor in order to make it better feel the presence of force. 
 
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/23c91a2ff7485120e96ec1e2b15f871.jpg
  "Cow1")
 
 
 
-
-
-
-
-
-
-
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/23c91a2ff7485120e96ec1e2b15f871.jpg
+ "Cow1")
 
 
