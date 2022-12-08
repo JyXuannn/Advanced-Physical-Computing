@@ -52,7 +52,7 @@ I went to the tutorial and got the answer for the bug which is the power is high
 
 
 
-
+https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/3D%EF%BC%8D%EF%BC%91.jpg
 
 
 
