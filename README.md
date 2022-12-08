@@ -18,6 +18,6 @@ To make sure the status machine, I started to combine these sensors. On the firs
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/servo%20and%20pressure.png "Cow1")
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%E5%85%A8%E9%83%A8.jpg "Cow1")
 
-![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%85%EF%BD%81%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%83%EF%BD%85.jpg "Cow1")
+After trying many time and numerous errors, I decided to use the distance sensor as the the first if, and then wrote the other ‘if’ in the else.
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%85%EF%BD%81%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%83%EF%BD%85.jpg "Cow1")
