@@ -24,6 +24,7 @@ After trying many time and numerous errors, I decided to use the distance sensor
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8D%EF%BC%91.png "Cow1")
 
+
 **Week 7:**
 
 When I make sure the coding did not has any problems. I decided to make a 3D model because I want to use 3D print to print the it. I thought there are some of complicated structures on the modal, so 3D print was a better choice I believed. Actually, it is not an easy thing though it just combined by some of different geometries. I needed to consider how can I make a right route to put the wires in, how big do I want to do and how thick do I want to do? 
@@ -45,6 +46,7 @@ Before making the prototype, I needed to link the circuit on Arduino and breadbo
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%82%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%84%EF%BD%82%EF%BD%8F%EF%BD%92%EF%BD%81%EF%BD%84%EF%BC%8D%EF%BC%92.jpg
  "Cow1")
+
 
 **Week 8:**
 
@@ -82,10 +84,22 @@ I found a problem for coding, which is when I get close to the installation for 
 
 I started to assemble the installation and soldering. When everything had been finished, I tried to run the installation. The same problem had been appeared again at that moment (the both of servos rotated all the time). Then I connected the other pressure on breadboard for showing on Friday.
 
-  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%8E%EF%BD%8D%EF%BC%8D%EF%BC%92.png
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
  "Cow1")
 
 
+**Week 9:**
+
+After showing, I got the feedback that I needed to design which things I wanted to put in the trays and I can improve the model. So, I Decided to use transparent material to make a new model because I thought there were so many shortcomings on the model. However, the 3D print cannot print a transparent model. Therefore I booked laser cutter and bought some of transparent material. I thought a relatively perfect model can be made by laser cutter It did not produce a lot of lines on the model like 3D printing and the important thing is it can cut transparent material.
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+ "Cow1")
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+ "Cow1")
+
+  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/1%EF%BD%93%EF%BD%94.jpg
+ "Cow1")
 
 
 
