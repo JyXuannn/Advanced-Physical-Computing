@@ -43,6 +43,8 @@ Before making the prototype, I needed to link the circuit on Arduino and breadbo
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/B%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%84%EF%BD%82%EF%BD%8F%EF%BD%81%EF%BD%92%EF%BD%84.jpg
  "Cow1")
 
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%82%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%84%EF%BD%82%EF%BD%8F%EF%BD%92%EF%BD%81%EF%BD%84%EF%BC%8D%EF%BC%92.jpg
+ "Cow1")
 
 
 
