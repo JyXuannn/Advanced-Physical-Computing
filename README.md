@@ -20,4 +20,4 @@ To make sure the status machine, I started to combine these sensors. On the firs
 
 After trying many time and numerous errors, I decided to use the distance sensor as the the first if, and then wrote the other ‘if’ in the else.
 
-![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87.png "Cow1")
+![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8D%EF%BC%91.png "Cow1")
