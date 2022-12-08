@@ -9,7 +9,7 @@ Additionally, I tried to connect the circuit and research how to use some of dif
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/servo.jpg "Cow1")
 
-
+Then I wrote the status machine which is when the audiences close the installation, distance sensor can check, light will high, servo will go to 30 degrees and LCD will show some words. And then, the audiences can take something on the left and right tray, the pressure will sense and servo will go to 180 degrees. The next step is that audiences take two different things on the both trays, The first tray to 180 degrees will go to 0 degrees and the other tray will go to 180, then delay a moment, they will swap and loop. On the process, the LCD will change different content.
 
 ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%85%EF%BD%81%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%83%EF%BD%85.jpg "Cow1")
 
