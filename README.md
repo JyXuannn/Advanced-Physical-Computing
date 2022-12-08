@@ -72,4 +72,23 @@ I tried to stick them together but the glue of UHU is not sticky enough and drie
  ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93%EF%BC%A4%EF%BC%8Dto%20assemble.jpg
  "Cow1")
 
+I found a problem for coding, which is when I get close to the installation for the first time it showed welcome, but when I left and got close for the second time it just showed thank you (thank you is the code that shows after the first pass). So I set the other values (m and n). It means I set a value to distinguish the times which the audiences close.
+
+ ![Cow1](https://github.com/JyXuannn/Advanced-Physical-Computing/blob/main/%EF%BC%93%EF%BC%A4%EF%BC%8Dto%20assemble.jpg
+ "Cow1")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
